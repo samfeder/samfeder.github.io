@@ -99,6 +99,101 @@
 		margin-bottom: 2em;
 	}
 
+  .tech-logos {
+    position: absolute;
+    height: 4em;
+    width: 31em;
+    float: left;
+    margin-left: -42px;
+    bottom: 0;
+  }
+
+  .tech-logo {
+    float: left;
+    padding: 5px 0px;
+    margin: 13px;
+  }
+
+  .backbone-icon {
+    background-image: url('images/backbone.png');
+    height: 1em;
+    width: 6em;
+    background-size: cover;
+    top: 48%;
+    position: relative;
+  }
+
+  .ruby-icon {
+    background-image: url('images/ruby.png');
+    height: 3em;
+    width: 3em;
+    background-size: cover;
+    position: relative;
+    top: 17px;
+  }
+
+  .rails-icon{
+    background-image: url('images/Rails.png');
+    height: 4em;
+    width: 3em;
+    background-size: cover;
+  }
+
+  .node-icon{
+    background-image: url('images/nodejs.png');
+    height: 3em;
+    width: 8em;
+    background-size: cover;
+  }
+
+  .html-icon{
+    background-image: url('images/HTML5.png');
+    height: 4em;
+    width: 4em;
+    background-size: cover;
+  }
+
+  .app-icons {
+    padding: 0px 33px;
+  }
+
+  .tello-icon {
+    padding: 25px 45px;
+  }
+
+  .checkers-icon {
+    padding: 25px 45px;
+  }
+
+  .games-icon {
+    padding: 25px 45px;
+  }
+
+  .image.fit {
+    border: 3px solid black;
+  }
+
+  .project-title-text {
+      text-align: center;
+      letter-spacing: 8px;
+      position: relative;
+  }
+
+  .project-descriptors{
+    position: relative;
+
+  }
+
+  .project-description {
+    text-align: center;
+    font-weight: bold;
+    height: 0;
+  }
+
+  .hidden-description{
+    display: none;
+  }
+
 	/* Table */
 
 		table
