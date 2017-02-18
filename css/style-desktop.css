@@ -338,6 +338,7 @@
 					left: 0;
 					bottom: 52.5%;
 					margin: 0;
+					font-size: 3.5em;
 				}
 
 				#me header > p
@@ -345,7 +346,7 @@
 					position: absolute;
 					left: 0;
 					top: 52.5%;
-					font-size: 1.5em;
+					font-size: 2.5em;
 					letter-spacing: -0.015em;
 					margin-top: 0;
 				}
